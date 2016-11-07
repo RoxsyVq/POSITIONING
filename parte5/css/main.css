@@ -1,0 +1,32 @@
+
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.c1, .c2, .c3, .c4{
+  width: 200px;
+  height: 200px;
+  position:absolute;
+
+}
+.c1{
+background: #ee3e64;
+}
+
+.c2{
+background: #44accf;
+right: 0;
+}
+.c3{
+background: #b7d84b;
+bottom:  0;
+left: 0;
+
+
+}
+.c4{
+  background: #f1ef0a;
+  bottom: 0;
+  right: 0;
+}
