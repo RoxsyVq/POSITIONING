@@ -6,15 +6,18 @@ body{
 .c1, .c2, .c3{
   width: 200px;
   height: 200px;
-  position: static;
+
 
 }
 .c1{
 background: #ee3e64;
+
 }
 
 .c2{
 background: #44accf;
+position: absolute;;
+left: 200px;
 }
 .c3{
 background: #b7d84b;

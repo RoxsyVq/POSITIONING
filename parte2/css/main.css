@@ -11,12 +11,16 @@ body{
 }
 .c1{
 background: #ee3e64;
+left: 300px;
 }
 
 .c2{
 background: #44accf;
+left: 500px;
 
 }
 .c3{
 background: #b7d84b;
+bottom:  200px;
+left: 100px;
 }
